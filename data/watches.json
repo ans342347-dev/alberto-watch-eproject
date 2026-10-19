@@ -1,0 +1,962 @@
+[
+  {
+    "id": 1,
+    "name": "Aurora Heritage",
+    "lineup": "Vintage",
+    "priceUSD": 350,
+    "caseSize": "34 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 2,
+    "name": "Meridian Original",
+    "lineup": "Vintage",
+    "priceUSD": 655,
+    "caseSize": "36 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 3,
+    "name": "Equinox Era",
+    "lineup": "Vintage",
+    "priceUSD": 525,
+    "caseSize": "38 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 4,
+    "name": "Solstice Blanc",
+    "lineup": "Vintage",
+    "priceUSD": 395,
+    "caseSize": "40 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 5,
+    "name": "Horizon Mark",
+    "lineup": "Vintage",
+    "priceUSD": 700,
+    "caseSize": "42 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 6,
+    "name": "Zenith Reserve",
+    "lineup": "Vintage",
+    "priceUSD": 570,
+    "caseSize": "34 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 7,
+    "name": "Apex Royale",
+    "lineup": "Vintage",
+    "priceUSD": 440,
+    "caseSize": "36 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 8,
+    "name": "Vertex Icon",
+    "lineup": "Vintage",
+    "priceUSD": 745,
+    "caseSize": "38 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 9,
+    "name": "Cascade Ring",
+    "lineup": "Vintage",
+    "priceUSD": 615,
+    "caseSize": "40 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 10,
+    "name": "Ember Series",
+    "lineup": "Vintage",
+    "priceUSD": 480,
+    "caseSize": "42 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 11,
+    "name": "Onyx Select",
+    "lineup": "Vintage",
+    "priceUSD": 350,
+    "caseSize": "34 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 12,
+    "name": "Ivory Craft",
+    "lineup": "Vintage",
+    "priceUSD": 655,
+    "caseSize": "36 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 13,
+    "name": "Cobalt Tempo",
+    "lineup": "Luxury",
+    "priceUSD": 4200,
+    "caseSize": "38 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 14,
+    "name": "Crimson Classic",
+    "lineup": "Luxury",
+    "priceUSD": 7875,
+    "caseSize": "40 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 15,
+    "name": "Amber Prime",
+    "lineup": "Luxury",
+    "priceUSD": 6300,
+    "caseSize": "42 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 16,
+    "name": "Jade Line",
+    "lineup": "Luxury",
+    "priceUSD": 4725,
+    "caseSize": "34 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 17,
+    "name": "Slate Gold",
+    "lineup": "Luxury",
+    "priceUSD": 8400,
+    "caseSize": "36 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 18,
+    "name": "Silver Form",
+    "lineup": "Luxury",
+    "priceUSD": 6825,
+    "caseSize": "38 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 19,
+    "name": "Midnight Legacy",
+    "lineup": "Luxury",
+    "priceUSD": 5250,
+    "caseSize": "40 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 20,
+    "name": "Dawn Studio",
+    "lineup": "Luxury",
+    "priceUSD": 8925,
+    "caseSize": "42 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 21,
+    "name": "Harbor Noir",
+    "lineup": "Luxury",
+    "priceUSD": 7350,
+    "caseSize": "34 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 22,
+    "name": "Summit Crest",
+    "lineup": "Luxury",
+    "priceUSD": 5775,
+    "caseSize": "36 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 23,
+    "name": "Atlas Signature",
+    "lineup": "Luxury",
+    "priceUSD": 4200,
+    "caseSize": "38 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 24,
+    "name": "Orion Limited",
+    "lineup": "Luxury",
+    "priceUSD": 7875,
+    "caseSize": "40 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 25,
+    "name": "Lyra Standard",
+    "lineup": "Smart",
+    "priceUSD": 200,
+    "caseSize": "42 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 26,
+    "name": "Vega Chrono",
+    "lineup": "Smart",
+    "priceUSD": 375,
+    "caseSize": "34 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 27,
+    "name": "Mercury Edition",
+    "lineup": "Smart",
+    "priceUSD": 300,
+    "caseSize": "36 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 28,
+    "name": "Phoenix Master",
+    "lineup": "Smart",
+    "priceUSD": 225,
+    "caseSize": "38 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 29,
+    "name": "Falcon Collection",
+    "lineup": "Smart",
+    "priceUSD": 400,
+    "caseSize": "40 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 30,
+    "name": "Sterling Steel",
+    "lineup": "Smart",
+    "priceUSD": 325,
+    "caseSize": "42 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 31,
+    "name": "Aurora Classic",
+    "lineup": "Smart",
+    "priceUSD": 250,
+    "caseSize": "34 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 32,
+    "name": "Meridian Prime",
+    "lineup": "Smart",
+    "priceUSD": 425,
+    "caseSize": "36 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 33,
+    "name": "Equinox Line",
+    "lineup": "Smart",
+    "priceUSD": 350,
+    "caseSize": "38 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 34,
+    "name": "Solstice Gold",
+    "lineup": "Smart",
+    "priceUSD": 275,
+    "caseSize": "40 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 35,
+    "name": "Horizon Form",
+    "lineup": "Smart",
+    "priceUSD": 200,
+    "caseSize": "42 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 36,
+    "name": "Zenith Legacy",
+    "lineup": "Smart",
+    "priceUSD": 375,
+    "caseSize": "34 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 37,
+    "name": "Apex Studio",
+    "lineup": "Sport",
+    "priceUSD": 520,
+    "caseSize": "36 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 38,
+    "name": "Vertex Noir",
+    "lineup": "Sport",
+    "priceUSD": 975,
+    "caseSize": "38 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 39,
+    "name": "Cascade Crest",
+    "lineup": "Sport",
+    "priceUSD": 780,
+    "caseSize": "40 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 40,
+    "name": "Ember Signature",
+    "lineup": "Sport",
+    "priceUSD": 585,
+    "caseSize": "42 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 41,
+    "name": "Onyx Limited",
+    "lineup": "Sport",
+    "priceUSD": 1040,
+    "caseSize": "34 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 42,
+    "name": "Ivory Standard",
+    "lineup": "Sport",
+    "priceUSD": 845,
+    "caseSize": "36 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 43,
+    "name": "Cobalt Chrono",
+    "lineup": "Sport",
+    "priceUSD": 650,
+    "caseSize": "38 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 44,
+    "name": "Crimson Edition",
+    "lineup": "Sport",
+    "priceUSD": 1105,
+    "caseSize": "40 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 45,
+    "name": "Amber Master",
+    "lineup": "Sport",
+    "priceUSD": 910,
+    "caseSize": "42 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 46,
+    "name": "Jade Collection",
+    "lineup": "Sport",
+    "priceUSD": 715,
+    "caseSize": "34 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 47,
+    "name": "Slate Steel",
+    "lineup": "Sport",
+    "priceUSD": 520,
+    "caseSize": "36 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 48,
+    "name": "Silver Heritage",
+    "lineup": "Sport",
+    "priceUSD": 975,
+    "caseSize": "38 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 49,
+    "name": "Midnight Original",
+    "lineup": "Dress",
+    "priceUSD": 780,
+    "caseSize": "40 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 50,
+    "name": "Dawn Era",
+    "lineup": "Dress",
+    "priceUSD": 1465,
+    "caseSize": "42 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 51,
+    "name": "Harbor Blanc",
+    "lineup": "Dress",
+    "priceUSD": 1170,
+    "caseSize": "34 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 52,
+    "name": "Summit Mark",
+    "lineup": "Dress",
+    "priceUSD": 880,
+    "caseSize": "36 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 53,
+    "name": "Atlas Reserve",
+    "lineup": "Dress",
+    "priceUSD": 1560,
+    "caseSize": "38 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 54,
+    "name": "Orion Royale",
+    "lineup": "Dress",
+    "priceUSD": 1270,
+    "caseSize": "40 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 55,
+    "name": "Lyra Icon",
+    "lineup": "Dress",
+    "priceUSD": 975,
+    "caseSize": "42 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 56,
+    "name": "Vega Ring",
+    "lineup": "Dress",
+    "priceUSD": 1660,
+    "caseSize": "34 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 57,
+    "name": "Mercury Series",
+    "lineup": "Dress",
+    "priceUSD": 1365,
+    "caseSize": "36 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 58,
+    "name": "Phoenix Select",
+    "lineup": "Dress",
+    "priceUSD": 1075,
+    "caseSize": "38 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 59,
+    "name": "Falcon Craft",
+    "lineup": "Dress",
+    "priceUSD": 780,
+    "caseSize": "40 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 60,
+    "name": "Sterling Tempo",
+    "lineup": "Dress",
+    "priceUSD": 1465,
+    "caseSize": "42 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 61,
+    "name": "Aurora Edition",
+    "lineup": "Diver",
+    "priceUSD": 950,
+    "caseSize": "34 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 62,
+    "name": "Meridian Master",
+    "lineup": "Diver",
+    "priceUSD": 1780,
+    "caseSize": "36 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 63,
+    "name": "Equinox Collection",
+    "lineup": "Diver",
+    "priceUSD": 1425,
+    "caseSize": "38 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 64,
+    "name": "Solstice Steel",
+    "lineup": "Diver",
+    "priceUSD": 1070,
+    "caseSize": "40 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 65,
+    "name": "Horizon Heritage",
+    "lineup": "Diver",
+    "priceUSD": 1900,
+    "caseSize": "42 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 66,
+    "name": "Zenith Original",
+    "lineup": "Diver",
+    "priceUSD": 1545,
+    "caseSize": "34 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 67,
+    "name": "Apex Era",
+    "lineup": "Diver",
+    "priceUSD": 1190,
+    "caseSize": "36 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 68,
+    "name": "Vertex Blanc",
+    "lineup": "Diver",
+    "priceUSD": 2020,
+    "caseSize": "38 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 69,
+    "name": "Cascade Mark",
+    "lineup": "Diver",
+    "priceUSD": 1665,
+    "caseSize": "40 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 70,
+    "name": "Ember Reserve",
+    "lineup": "Diver",
+    "priceUSD": 1305,
+    "caseSize": "42 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 71,
+    "name": "Onyx Royale",
+    "lineup": "Diver",
+    "priceUSD": 950,
+    "caseSize": "34 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 72,
+    "name": "Ivory Icon",
+    "lineup": "Diver",
+    "priceUSD": 1780,
+    "caseSize": "36 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 73,
+    "name": "Cobalt Ring",
+    "lineup": "Pilot",
+    "priceUSD": 690,
+    "caseSize": "38 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 74,
+    "name": "Crimson Series",
+    "lineup": "Pilot",
+    "priceUSD": 1295,
+    "caseSize": "40 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 75,
+    "name": "Amber Select",
+    "lineup": "Pilot",
+    "priceUSD": 1035,
+    "caseSize": "42 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 76,
+    "name": "Jade Craft",
+    "lineup": "Pilot",
+    "priceUSD": 775,
+    "caseSize": "34 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 77,
+    "name": "Slate Tempo",
+    "lineup": "Pilot",
+    "priceUSD": 1380,
+    "caseSize": "36 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 78,
+    "name": "Silver Classic",
+    "lineup": "Pilot",
+    "priceUSD": 1120,
+    "caseSize": "38 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 79,
+    "name": "Midnight Prime",
+    "lineup": "Pilot",
+    "priceUSD": 865,
+    "caseSize": "40 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 80,
+    "name": "Dawn Line",
+    "lineup": "Pilot",
+    "priceUSD": 1465,
+    "caseSize": "42 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 81,
+    "name": "Harbor Gold",
+    "lineup": "Pilot",
+    "priceUSD": 1210,
+    "caseSize": "34 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 82,
+    "name": "Summit Form",
+    "lineup": "Pilot",
+    "priceUSD": 950,
+    "caseSize": "36 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 83,
+    "name": "Atlas Legacy",
+    "lineup": "Pilot",
+    "priceUSD": 690,
+    "caseSize": "38 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 84,
+    "name": "Orion Studio",
+    "lineup": "Pilot",
+    "priceUSD": 1295,
+    "caseSize": "40 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 85,
+    "name": "Lyra Noir",
+    "lineup": "Skeleton",
+    "priceUSD": 1800,
+    "caseSize": "42 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 86,
+    "name": "Vega Crest",
+    "lineup": "Skeleton",
+    "priceUSD": 3375,
+    "caseSize": "34 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 87,
+    "name": "Mercury Signature",
+    "lineup": "Skeleton",
+    "priceUSD": 2700,
+    "caseSize": "36 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 88,
+    "name": "Phoenix Limited",
+    "lineup": "Skeleton",
+    "priceUSD": 2025,
+    "caseSize": "38 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 89,
+    "name": "Falcon Standard",
+    "lineup": "Skeleton",
+    "priceUSD": 3600,
+    "caseSize": "40 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 90,
+    "name": "Sterling Chrono",
+    "lineup": "Skeleton",
+    "priceUSD": 2925,
+    "caseSize": "42 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 91,
+    "name": "Aurora Series",
+    "lineup": "Skeleton",
+    "priceUSD": 2250,
+    "caseSize": "34 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 92,
+    "name": "Meridian Select",
+    "lineup": "Skeleton",
+    "priceUSD": 3825,
+    "caseSize": "36 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 93,
+    "name": "Equinox Craft",
+    "lineup": "Skeleton",
+    "priceUSD": 3150,
+    "caseSize": "38 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 94,
+    "name": "Solstice Tempo",
+    "lineup": "Skeleton",
+    "priceUSD": 2475,
+    "caseSize": "40 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 95,
+    "name": "Horizon Classic",
+    "lineup": "Skeleton",
+    "priceUSD": 1800,
+    "caseSize": "42 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 96,
+    "name": "Zenith Prime",
+    "lineup": "Skeleton",
+    "priceUSD": 3375,
+    "caseSize": "34 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 97,
+    "name": "Apex Line",
+    "lineup": "Ladies",
+    "priceUSD": 480,
+    "caseSize": "30 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 98,
+    "name": "Vertex Gold",
+    "lineup": "Ladies",
+    "priceUSD": 900,
+    "caseSize": "32 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 99,
+    "name": "Cascade Form",
+    "lineup": "Ladies",
+    "priceUSD": 720,
+    "caseSize": "34 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 100,
+    "name": "Ember Legacy",
+    "lineup": "Ladies",
+    "priceUSD": 540,
+    "caseSize": "36 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 101,
+    "name": "Onyx Studio",
+    "lineup": "Ladies",
+    "priceUSD": 960,
+    "caseSize": "28 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 102,
+    "name": "Ivory Noir",
+    "lineup": "Ladies",
+    "priceUSD": 780,
+    "caseSize": "30 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 103,
+    "name": "Cobalt Crest",
+    "lineup": "Ladies",
+    "priceUSD": 600,
+    "caseSize": "32 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 104,
+    "name": "Crimson Signature",
+    "lineup": "Ladies",
+    "priceUSD": 1020,
+    "caseSize": "34 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 105,
+    "name": "Amber Limited",
+    "lineup": "Ladies",
+    "priceUSD": 840,
+    "caseSize": "36 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 106,
+    "name": "Jade Standard",
+    "lineup": "Ladies",
+    "priceUSD": 660,
+    "caseSize": "28 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 107,
+    "name": "Slate Chrono",
+    "lineup": "Ladies",
+    "priceUSD": 480,
+    "caseSize": "30 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 108,
+    "name": "Silver Edition",
+    "lineup": "Ladies",
+    "priceUSD": 900,
+    "caseSize": "32 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 109,
+    "name": "Midnight Master",
+    "lineup": "Kids",
+    "priceUSD": 60,
+    "caseSize": "36 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 110,
+    "name": "Dawn Collection",
+    "lineup": "Kids",
+    "priceUSD": 110,
+    "caseSize": "38 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 111,
+    "name": "Harbor Steel",
+    "lineup": "Kids",
+    "priceUSD": 90,
+    "caseSize": "30 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 112,
+    "name": "Summit Heritage",
+    "lineup": "Kids",
+    "priceUSD": 65,
+    "caseSize": "32 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 113,
+    "name": "Atlas Original",
+    "lineup": "Kids",
+    "priceUSD": 120,
+    "caseSize": "34 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 114,
+    "name": "Orion Era",
+    "lineup": "Kids",
+    "priceUSD": 95,
+    "caseSize": "36 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 115,
+    "name": "Lyra Blanc",
+    "lineup": "Kids",
+    "priceUSD": 75,
+    "caseSize": "38 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 116,
+    "name": "Vega Mark",
+    "lineup": "Kids",
+    "priceUSD": 125,
+    "caseSize": "30 mm",
+    "waterResistance": "200 m"
+  },
+  {
+    "id": 117,
+    "name": "Mercury Reserve",
+    "lineup": "Kids",
+    "priceUSD": 105,
+    "caseSize": "32 mm",
+    "waterResistance": "30 m"
+  },
+  {
+    "id": 118,
+    "name": "Phoenix Royale",
+    "lineup": "Kids",
+    "priceUSD": 80,
+    "caseSize": "34 mm",
+    "waterResistance": "50 m"
+  },
+  {
+    "id": 119,
+    "name": "Falcon Icon",
+    "lineup": "Kids",
+    "priceUSD": 60,
+    "caseSize": "36 mm",
+    "waterResistance": "100 m"
+  },
+  {
+    "id": 120,
+    "name": "Sterling Ring",
+    "lineup": "Kids",
+    "priceUSD": 110,
+    "caseSize": "38 mm",
+    "waterResistance": "200 m"
+  }
+]
